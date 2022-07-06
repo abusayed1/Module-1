@@ -1,0 +1,15 @@
+.help-people{
+    background-image: url(images/donation14.webp);
+    background-position: 100% 100%;
+    text-align: center;
+    text-decoration-color: aliceblue;
+}
+#donate{
+    background-color: orangered;
+    padding: 5px;
+    border: 0;
+    margin-bottom: 40px;
+}
+.tk{
+    display: flexbox;
+}
